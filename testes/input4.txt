@@ -1,0 +1,11 @@
+-ii A -if B -if C -if A -if D -if A -if E -s
+-r A -s
+-b A
+-b B
+-b C
+-b D
+-b E
+-t
+-s
+-ii N -if O -i E 2 -i C 3 -i I 4 -s
+-f

@@ -1,0 +1,37 @@
+-ii A -if B -if C -if D -if E -s
+-b C
+-b Z
+-i F 2 -s
+-i G 4 -s
+-r B -s
+-r E -s
+-rp 3 -s
+-rp 1 -s
+-b A
+-b X
+-t
+-i H 2 -s
+-i I 3 -s
+-i J 4 -s
+-i K 5 -s
+-s
+-rp 2 -s
+-rp 4 -s
+-b I
+-b K
+-t
+-c -s
+-ii M -if N -i O 2 -i P 3 -i Q 4 -s
+-b M
+-b N
+-b O
+-b P
+-b Q
+-r O -s
+-r Q -s
+-rp 2 -s
+-rp 1 -s
+-b N
+-t
+-c -s
+-f

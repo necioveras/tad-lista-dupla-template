@@ -1,0 +1,8 @@
+-ii A -if B -if C -s
+-b B
+-i D 3 -s
+-r A -s
+-rp 2 -s
+-t
+-c -s
+-f
