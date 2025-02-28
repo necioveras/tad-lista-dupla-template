@@ -9,21 +9,21 @@ Lista: A F B C D E
 Lista: A F B G C D E
 Lista: A F G C D E
 Lista: A F G C D
-Lista: A F D
-Lista: F D
+Lista: A F C D
+Lista: F C D
 Posição do elemento A: -1
 Posição do elemento X: -1
-Tamanho da lista: 2
-Lista: F H D
-Lista: F H I D
-Lista: F H I J D
-Lista: F H I J K D
-Lista: F H I J K D
-Lista: F I J K D
-Lista: F I K D
-Posição do elemento I: 2
-Posição do elemento K: 3
 Tamanho da lista: 3
+Lista: F H C D
+Lista: F H I C D
+Lista: F H I J C D
+Lista: F H I J K C D
+Lista: F H I J K C D
+Lista: F I J K C D
+Lista: F I J C D
+Posição do elemento I: 2
+Posição do elemento K: -1
+Tamanho da lista: 5
 Lista vazia
 Lista: M O P Q N
 Posição do elemento M: 1

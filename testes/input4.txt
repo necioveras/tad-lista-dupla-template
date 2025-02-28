@@ -7,5 +7,6 @@
 -b E
 -t
 -s
+-c
 -ii N -if O -i E 2 -i C 3 -i I 4 -s
 -f
